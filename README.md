@@ -1,6 +1,6 @@
 # Next Level Week #02
 Desenvolvimento da plataforma Proffy na Next Level Week 2 da Rocketseat.  
-Proffy's Software Development during the Next Level Week 2 - Rockectseat.
+Proffy's Software Development during the Next Level Week 2 - Rocketseat.
 ### Technologies
 * ReactJS
 * NodeJS
