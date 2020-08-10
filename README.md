@@ -8,5 +8,5 @@ Desenvolvimento da plataforma Proffy na Next Level Week da Rocketseat.
 
 ### Languages
 * Typescript
-** TSX, TS ...
+    * TSX, TS ...
 * CSS
